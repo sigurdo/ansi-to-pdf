@@ -1,0 +1,7 @@
+*.png
+*.pdf
+*.txt
+*.ans
+*.ansi
+
+node_modules
